@@ -1,6 +1,7 @@
 ---
-description: 감사합니다.
+description: 페이지 설명입니다.
 ---
 
-# 깃북을 알게되었습니다.
+# 제목입니다.
 
+this is page content
