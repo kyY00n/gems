@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [깃북을 알게되었습니다.](README.md)
