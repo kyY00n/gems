@@ -1,7 +1,3 @@
----
-description: 페이지 설명입니다.
----
+# Today I Learned
 
-# 제목입니다.
-
-this is page content
+오늘 제가 배운 것은..
